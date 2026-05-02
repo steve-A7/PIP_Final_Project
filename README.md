@@ -9,7 +9,7 @@ https://github.com/steve-A7/PIP_Final_Project
 ## II. Extract Zip and Open Powershell/Command Prompt for the project directory:
 
 ```bash
-cd Your:\\Save\\Path\\PIP_Mid_Project-main
+cd Your:\\Save\\Path\\PIP_Final_Project-main
 ```
 
 ## III. Create venv environment:
